@@ -1,7 +1,5 @@
 # SmartRoute-Optimization
 
-# SmartRoute Optimizer
-
 ## Team - Mavericks
 
 ### Introduction
