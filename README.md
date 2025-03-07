@@ -33,7 +33,7 @@ pip install streamlit pandas folium openpyxl streamlit-folium streamlit-lottie s
 ### Step 1: Clone the Repository
 Clone the SmartRoute Optimizer repository to your local machine:
 ```sh
-git clone https://github.com/your-username/SmartRoute-Optimizer.git
+git clone https://github.com/Sezan07/SmartRoute-Optimization
 cd SmartRoute-Optimizer
 ```
 
